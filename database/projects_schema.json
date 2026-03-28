@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "description": "GitHub 热门项目数据库字段模板",
+  "fields": {
+    "project_name": "项目名称",
+    "github_url": "GitHub 链接",
+    "category": "类别，例如：AI Agent / 教育工具 / 内容工具 / 效率工具 / 开发基础设施 / 其他",
+    "first_seen_date": "首次发现日期，格式 YYYY-MM-DD",
+    "trend_level": "趋势层级：日榜 / 周榜 / 月榜",
+    "is_new": "是否新上榜项目：true / false",
+    "has_major_update": "近期是否有重大更新：true / false",
+    "stars_approx": "大概 Star 数量",
+    "principle_summary": "核心原理摘要（1-2句话）",
+    "use_cases": ["用例1", "用例2", "用例3"],
+    "target_users": "适合哪类用户",
+    "why_trending": "为什么会火（产品/技术/传播角度）",
+    "pm_value": "对 AI 产品经理的启发",
+    "content_potential": {
+      "rating": "内容潜力评级：高 / 中 / 低",
+      "content_type": "适合的内容类型：工具教程 / 行业趋势 / 产品拆解 / 职业教育 / 实战挑战",
+      "topic_idea": "具体选题建议"
+    },
+    "product_potential": {
+      "rating": "产品潜力评级：高 / 中 / 低",
+      "product_idea": "可做的衍生产品或服务",
+      "process_as_content": "是否值得把做产品过程变为内容素材：true / false"
+    },
+    "follow_up": "是否值得持续追踪：true / false",
+    "notes": "备注"
+  },
+  "example": {
+    "project_name": "示例项目",
+    "github_url": "https://github.com/owner/repo",
+    "category": "AI Agent",
+    "first_seen_date": "2026-03-28",
+    "trend_level": "日榜",
+    "is_new": true,
+    "has_major_update": false,
+    "stars_approx": "12k",
+    "principle_summary": "这个工具本质上是一个可以自主规划并执行多步任务的 AI Agent 框架。",
+    "use_cases": ["自动化研究报告生成", "代码调试与自动修复", "内容批量生产"],
+    "target_users": "开发者、内容创作者、效率工具爱好者",
+    "why_trending": "切中了 Agent 工程化的核心需求，同时有完整中文文档",
+    "pm_value": "揭示了 Agent 记忆+工具调用+任务规划三层架构的标准化趋势",
+    "content_potential": {
+      "rating": "高",
+      "content_type": "工具教程",
+      "topic_idea": "文科生也能跑！手把手教你用这个 AI Agent 自动完成3小时的工作"
+    },
+    "product_potential": {
+      "rating": "高",
+      "product_idea": "做一个中文封装版，配套中文模板库，面向职场人和转行者",
+      "process_as_content": true
+    },
+    "follow_up": true,
+    "notes": ""
+  }
+}
