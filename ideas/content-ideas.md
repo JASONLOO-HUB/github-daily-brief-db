@@ -18,6 +18,16 @@ last_updated: 2026-03-28
 | 2026-03-28 | marswaveai/TypeNo | 工具教程 | 苹果用户必装！免费开源的AI语音输入，打字速度翻3倍还不泄露隐私 | 待发 |
 | 2026-03-28 | mnfst/awesome-free-llm-apis | 工具教程 | 白嫖党狂喜！这些AI接口永久免费，文科生也能做AI产品 | 待发 |
 | 2026-03-28 | HKUDS/OpenSpace | 行业趋势 | AI开始"自我进化"了！港大这个开源框架让AI越用越聪明 | 待发 |
+| 2026-03-29 | oaker-io/wewrite | 工具教程/实战挑战 | 公众号写作神器！用AI一键完成选题写作排版 | 待发 |
+| 2026-03-29 | oaker-io/wewrite | 工具教程/实战挑战 | 新手必看：如何用WeWrite快速产出爆款公众号文章 | 待发 |
+| 2026-03-29 | edinetdb/dexter-jp | 行业趋势/产品拆解 | AI如何重塑日本股市分析？Dexter-JP深度解析 | 待发 |
+| 2026-03-29 | edinetdb/dexter-jp | 行业趋势/产品拆解 | 金融AI代理实战：日股研究的智能新工具 | 待发 |
+| 2026-03-29 | nicedreamzapp/claude-code-local | 工具教程/职业教育 | 苹果芯片上本地跑Claude Code，AI无云端时代？ | 待发 |
+| 2026-03-29 | nicedreamzapp/claude-code-local | 工具教程/职业教育 | 本地AI实战：避免API费用的秘密武器 | 待发 |
+| 2026-03-29 | alvinunreal/awesome-openclaw | 资源推荐/工具教程 | OpenClaw必备资源大合集，助你快速上手 | 待发 |
+| 2026-03-29 | alvinunreal/awesome-openclaw | 资源推荐/工具教程 | AI代理开发全攻略：从OpenClaw资源库开始 | 待发 |
+| 2026-03-29 | spool-lab/spool | 工具教程/效率提升 | 信息太多？教你用Spool打造私人搜索引擎 | 待发 |
+| 2026-03-29 | spool-lab/spool | 工具教程/效率提升 | 高效管理个人数据，效率工具新选择 | 待发 |
 
 ---
 

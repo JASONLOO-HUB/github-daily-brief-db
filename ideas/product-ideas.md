@@ -15,6 +15,11 @@ last_updated: 2026-03-28
 | 2026-03-28 | slavingia/skills | 中文版 Claude Code Skills 集合 | 中国内容创作者 | 低 | 是 | 待评估 |
 | 2026-03-28 | mnfst/awesome-free-llm-apis | 零成本 AI 工具箱（Notion 模板） | 想做 AI 产品的文科生 | 低 | 是 | 待评估 |
 | 2026-03-28 | marswaveai/TypeNo | 中文语音输入工具（Windows 版） | 中文用户 | 高 | 是 | 待评估 |
+| 2026-03-29 | oaker-io/wewrite | 开发中文用户专属的AI公众号内容创作平台，集成热点分析、写作... | 中国文科生 | 低 | 是 | 待评估 |
+| 2026-03-29 | edinetdb/dexter-jp | 打造针对中国资本市场的智能财务分析AI代理，结合本地数据与语... | 中国文科生 | 低 | 是 | 待评估 |
+| 2026-03-29 | nicedreamzapp/claude-code-local | 开发中文本地AI模型部署套件，支持主流国产硬件，满足隐私敏感... | 中国文科生 | 中 | 是 | 待评估 |
+| 2026-03-29 | alvinunreal/awesome-openclaw | 基于OpenClaw资源，打造中文集成式AI代理工具包，整合... | 中国文科生 | 中 | 是 | 待评估 |
+| 2026-03-29 | spool-lab/spool | 开发中文版本个人数据智能搜索助手，支持多平台数据接入，结合A... | 中国文科生 | 中 | 是 | 待评估 |
 
 ---
 
