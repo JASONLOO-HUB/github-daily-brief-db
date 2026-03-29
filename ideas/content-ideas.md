@@ -1,7 +1,7 @@
 ---
 title: "小红书选题池"
 description: "从每日 GitHub 简报中提炼的小红书内容选题"
-last_updated: 2026-03-28
+last_updated: 2026-03-29
 ---
 
 # 小红书选题池
@@ -28,6 +28,16 @@ last_updated: 2026-03-28
 | 2026-03-29 | alvinunreal/awesome-openclaw | 资源推荐/工具教程 | AI代理开发全攻略：从OpenClaw资源库开始 | 待发 |
 | 2026-03-29 | spool-lab/spool | 工具教程/效率提升 | 信息太多？教你用Spool打造私人搜索引擎 | 待发 |
 | 2026-03-29 | spool-lab/spool | 工具教程/效率提升 | 高效管理个人数据，效率工具新选择 | 待发 |
+| 2026-03-29 | hitmux/HitCC | 技术解析/行业趋势/实战挑战 | 震惊！Claude Code CLI的秘密被扒光了！AI小白也能看懂！ | 待发 |
+| 2026-03-29 | hitmux/HitCC | 技术解析/行业趋势/实战挑战 | AI Agent开发必看！逆向工程带你探秘Claude核心技术！ | 待发 |
+| 2026-03-29 | walkinglabs/awesome-harness-engineering | 资源推荐/行业趋势 | 程序员必备！Harness工程宝藏清单，效率瞬间翻倍！ | 待发 |
+| 2026-03-29 | walkinglabs/awesome-harness-engineering | 资源推荐/行业趋势 | AI时代，你还不知道Harness工程？速看这份顶尖工具指南！ | 待发 |
+| 2026-03-29 | marswaveai/ColaMD | 工具教程/产品拆解/行业趋势 | 爆款预警！这个AI Markdown编辑器也太香了吧！写作效率翻倍！ | 待发 |
+| 2026-03-29 | marswaveai/ColaMD | 工具教程/产品拆解/行业趋势 | 文科生福音！AI Agent帮你写Markdown，从此告别码字焦虑！ | 待发 |
+| 2026-03-29 | yetone/voice-input-src | 工具教程/实战挑战 | 解放双手！这个语音输入项目让你打字效率飞起！ | 待发 |
+| 2026-03-29 | yetone/voice-input-src | 工具教程/实战挑战 | AI语音输入，文科生也能轻松驾驭的黑科技！ | 待发 |
+| 2026-03-29 | nutterplayer7093/Lossless-Scaling-Pro-2026 | 工具教程 | 游戏党狂喜！AI黑科技让你的老游戏秒变新！ | 待发 |
+| 2026-03-29 | nutterplayer7093/Lossless-Scaling-Pro-2026 | 工具教程 | 告别卡顿！这个工具让你的游戏帧率飙升，画质无损！ | 待发 |
 
 ---
 

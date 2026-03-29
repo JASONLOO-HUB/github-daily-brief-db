@@ -1,7 +1,7 @@
 ---
 title: "产品机会池"
 description: "从每日 GitHub 简报中提炼的产品/服务机会"
-last_updated: 2026-03-28
+last_updated: 2026-03-29
 ---
 
 # 产品机会池
@@ -20,6 +20,11 @@ last_updated: 2026-03-28
 | 2026-03-29 | nicedreamzapp/claude-code-local | 开发中文本地AI模型部署套件，支持主流国产硬件，满足隐私敏感... | 中国文科生 | 中 | 是 | 待评估 |
 | 2026-03-29 | alvinunreal/awesome-openclaw | 基于OpenClaw资源，打造中文集成式AI代理工具包，整合... | 中国文科生 | 中 | 是 | 待评估 |
 | 2026-03-29 | spool-lab/spool | 开发中文版本个人数据智能搜索助手，支持多平台数据接入，结合A... | 中国文科生 | 中 | 是 | 待评估 |
+| 2026-03-29 | hitmux/HitCC | 基于Claude Code CLI的逆向工程文档，开发一个交... | AI新手、文科背景但对AI有兴趣的学习者、初级开发者 | 中 | 是 | 待评估 |
+| 2026-03-29 | walkinglabs/awesome-harness-engineering | 基于该列表，制作一个针对非技术人员的“AI项目管理与部署”入... | AI项目经理、AI产品经理、对AI部署有兴趣的非技术人员 | 低 | 是 | 待评估 |
+| 2026-03-29 | marswaveai/ColaMD | 一个基于ColaMD概念的“AI写作助手”小程序/Web应用... | 小红书内容创作者、学生、AI新手、产品经理 | 中 | 是 | 待评估 |
+| 2026-03-29 | yetone/voice-input-src | 开发一个针对AI学习者的“AI语音笔记助手”，结合语音输入和... | 学生、AI学习者、内容创作者 | 中 | 是 | 待评估 |
+| 2026-03-29 | nutterplayer7093/Lossless-Scaling-Pro-2026 | 无... | 无 | 高 | 否 | 待评估 |
 
 ---
 
