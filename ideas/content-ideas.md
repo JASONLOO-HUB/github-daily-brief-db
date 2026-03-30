@@ -1,7 +1,7 @@
 ---
 title: "小红书选题池"
 description: "从每日 GitHub 简报中提炼的小红书内容选题"
-last_updated: 2026-03-29
+last_updated: 2026-03-30
 ---
 
 # 小红书选题池
@@ -38,6 +38,30 @@ last_updated: 2026-03-29
 | 2026-03-29 | yetone/voice-input-src | 工具教程/实战挑战 | AI语音输入，文科生也能轻松驾驭的黑科技！ | 待发 |
 | 2026-03-29 | nutterplayer7093/Lossless-Scaling-Pro-2026 | 工具教程 | 游戏党狂喜！AI黑科技让你的老游戏秒变新！ | 待发 |
 | 2026-03-29 | nutterplayer7093/Lossless-Scaling-Pro-2026 | 工具教程 | 告别卡顿！这个工具让你的游戏帧率飙升，画质无损！ | 待发 |
+| 2026-03-30 | titanwings/colleague-skill | 职业教育 | 大模型真要“害死”前端后端？AI时代的技术人危机感 | 待发 |
+| 2026-03-30 | titanwings/colleague-skill | 职业教育 | AI来了，码农们的生存焦虑如何破解？ | 待发 |
+| 2026-03-30 | titanwings/colleague-skill | 职业教育 | 从这份吐槽看大模型对工作的真实冲击 | 待发 |
+| 2026-03-30 | vladartym/always-fit-resume | 工具教程 | 不再担心简历超页，这个神器帮你自动排版！ | 待发 |
+| 2026-03-30 | vladartym/always-fit-resume | 工具教程 | 零设计功底也能做专业简历，超实用技巧分享 | 待发 |
+| 2026-03-30 | vladartym/always-fit-resume | 工具教程 | 求职必备！自动缩放字体的简历制作工具详解 | 待发 |
+| 2026-03-30 | toby-bridges/api-relay-audit | 行业趋势 | AI产品安全隐患大揭秘！如何防止提示注入？ | 待发 |
+| 2026-03-30 | toby-bridges/api-relay-audit | 行业趋势 | 第三方AI服务安全审计必备工具介绍 | 待发 |
+| 2026-03-30 | toby-bridges/api-relay-audit | 行业趋势 | AI时代，API安全你真的重视了吗？ | 待发 |
+| 2026-03-30 | WillowHe/EvoOpt_oppangu_optimization_model | 行业趋势 | 大模型如何助力工业优化？运筹学新突破 | 待发 |
+| 2026-03-30 | WillowHe/EvoOpt_oppangu_optimization_model | 行业趋势 | AI+运筹优化：未来制造业的核心利器 | 待发 |
+| 2026-03-30 | WillowHe/EvoOpt_oppangu_optimization_model | 行业趋势 | 专业领域的AI应用实例分享 | 待发 |
+| 2026-03-30 | ANANTHAPAULAN/TaskManager | 工具教程 | 简单实用的任务管理工具推荐 | 待发 |
+| 2026-03-30 | ANANTHAPAULAN/TaskManager | 工具教程 | 如何高效规划每日任务？ | 待发 |
+| 2026-03-30 | ANANTHAPAULAN/TaskManager | 工具教程 | 新手必备的效率神器 | 待发 |
+| 2026-03-30 | drona23/claude-token-efficient | 工具教程 | 如何减少AI模型调用成本？Claude优化技巧 | 待发 |
+| 2026-03-30 | drona23/claude-token-efficient | 工具教程 | 节省63%Token，提升AI使用效率！ | 待发 |
+| 2026-03-30 | drona23/claude-token-efficient | 工具教程 | 无代码改动的Claude模型优化方案 | 待发 |
+| 2026-03-30 | Gokuld102/ai-traffic-signal-optimization | 行业趋势 | AI如何改变我们的交通信号？智能城市新趋势 | 待发 |
+| 2026-03-30 | Gokuld102/ai-traffic-signal-optimization | 行业趋势 | 用机器学习缓解城市堵车，真实案例分享 | 待发 |
+| 2026-03-30 | Gokuld102/ai-traffic-signal-optimization | 行业趋势 | 智能交通灯背后的AI黑科技 | 待发 |
+| 2026-03-30 | GreenNovaEmma/migraine-risk-card | 职业教育 | 偏头痛患者必备！科学环境风险监测工具介绍 | 待发 |
+| 2026-03-30 | GreenNovaEmma/migraine-risk-card | 职业教育 | 如何用智能设备预防偏头痛发作？ | 待发 |
+| 2026-03-30 | GreenNovaEmma/migraine-risk-card | 职业教育 | 家庭健康管理新趋势：环境与疾病关联解析 | 待发 |
 
 ---
 

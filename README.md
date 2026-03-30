@@ -5,7 +5,7 @@ owner: "JASONLOO-HUB"
 target_audience: "中国文科生、AI新手、转型AI产品经理"
 data_source: "GitHub Search API"
 analysis_engine: "GPT-4.1 / Perplexity API"
-last_updated: 2026-03-29
+last_updated: 2026-03-30
 ---
 
 # GitHub Daily Brief Database

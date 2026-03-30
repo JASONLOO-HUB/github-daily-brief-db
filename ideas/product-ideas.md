@@ -1,7 +1,7 @@
 ---
 title: "产品机会池"
 description: "从每日 GitHub 简报中提炼的产品/服务机会"
-last_updated: 2026-03-29
+last_updated: 2026-03-30
 ---
 
 # 产品机会池
@@ -25,6 +25,12 @@ last_updated: 2026-03-29
 | 2026-03-29 | marswaveai/ColaMD | 一个基于ColaMD概念的“AI写作助手”小程序/Web应用... | 小红书内容创作者、学生、AI新手、产品经理 | 中 | 是 | 待评估 |
 | 2026-03-29 | yetone/voice-input-src | 开发一个针对AI学习者的“AI语音笔记助手”，结合语音输入和... | 学生、AI学习者、内容创作者 | 中 | 是 | 待评估 |
 | 2026-03-29 | nutterplayer7093/Lossless-Scaling-Pro-2026 | 无... | 无 | 高 | 否 | 待评估 |
+| 2026-03-30 | vladartym/always-fit-resume | 开发中文简历模版库，结合自动排版功能，打造面向中国求职市场的简历一站式编辑器。 | 求职者、职场新人、大学生 | 中 | 是 | 待评估 |
+| 2026-03-30 | toby-bridges/api-relay-audit | 打造中文AI API安全审计平台，集成自动检测和风险提醒，服务中国AI初创和企业... | AI开发者、产品经理、安全工程师 | 高 | 是 | 待评估 |
+| 2026-03-30 | WillowHe/EvoOpt_oppangu_optimization_model | 开发面向制造和物流行业的中文运筹优化AI助手，结合大模型提供定制化优化方案和决策... | 工程师、行业专家、AI产品经理 | 中 | 否 | 待评估 |
+| 2026-03-30 | drona23/claude-token-efficient | 开发支持多种大模型的Token优化插件，面向中文用户提供一键集成的成本优化解决方... | AI开发者、产品经理 | 中 | 是 | 待评估 |
+| 2026-03-30 | Gokuld102/ai-traffic-signal-optimization | 面向中国城市交通管理部门开发定制化智能信号灯优化系统，结合本地交通数据实现智能调... | 智能交通研发人员、城市管理者 | 中 | 否 | 待评估 |
+| 2026-03-30 | GreenNovaEmma/migraine-risk-card | 开发中文环境健康监测App，集成多种疾病风险评估模块，满足广大慢性病患者的预防需... | 健康管理爱好者、偏头痛患者 | 高 | 是 | 待评估 |
 
 ---
 
