@@ -1,7 +1,7 @@
 ---
 title: "小红书选题池"
 description: "从每日 GitHub 简报中提炼的小红书内容选题"
-last_updated: 2026-03-30
+last_updated: 2026-03-31
 ---
 
 # 小红书选题池
@@ -85,3 +85,27 @@ last_updated: 2026-03-30
 **次优先级：**
 4. `TypeNo` 工具推荐 — 苹果用户群体大，工具类笔记容易上热门
 5. `slavingia/skills` 观点文章 — 适合做深度内容，建立专业人设
+| 2026-03-31 | instructkr/claw-code | AI自动编程工具介绍与使用指南 | 零基础也能懂！Claw Code让编程变简单 | 待发 |
+| 2026-03-31 | instructkr/claw-code | AI自动编程工具介绍与使用指南 | AI助力写代码，Claw Code深度解析 | 待发 |
+| 2026-03-31 | instructkr/claw-code | AI自动编程工具介绍与使用指南 | 如何用Claw Code提升你的编程效率？ | 待发 |
+| 2026-03-31 | openai/codex-plugin-cc | AI代码审查与任务管理工具解析 | OpenAI新神器：自动审查代码不再难 | 待发 |
+| 2026-03-31 | openai/codex-plugin-cc | AI代码审查与任务管理工具解析 | 如何用Codex插件提升团队开发效率？ | 待发 |
+| 2026-03-31 | openai/codex-plugin-cc | AI代码审查与任务管理工具解析 | AI分配任务？Codex插件深度体验 | 待发 |
+| 2026-03-31 | ChinaSiro/claude-code-sourcemap | 代码调试与映射工具介绍 | 程序员必备！代码映射工具全解析 | 待发 |
+| 2026-03-31 | ChinaSiro/claude-code-sourcemap | 代码调试与映射工具介绍 | 如何快速定位代码错误？看claude-code-sourcemap | 待发 |
+| 2026-03-31 | ChinaSiro/claude-code-sourcemap | 代码调试与映射工具介绍 | 调试神器！带你深入理解代码结构 | 待发 |
+| 2026-03-31 | nirholas/claude-code | 终端智能编程助手体验分享 | 终端里的AI秘助手，claude-code实测 | 待发 |
+| 2026-03-31 | nirholas/claude-code | 终端智能编程助手体验分享 | 新手也能用的智能编程神器 | 待发 |
+| 2026-03-31 | nirholas/claude-code | 终端智能编程助手体验分享 | 用自然语言指挥代码，claude-code深度评测 | 待发 |
+| 2026-03-31 | sanbuphy/claude-code-source-code | 开源项目源码解析 | 揭秘Claude Code背后的秘密 | 待发 |
+| 2026-03-31 | sanbuphy/claude-code-source-code | 开源项目源码解析 | 开源项目源码大揭秘，学到了！ | 待发 |
+| 2026-03-31 | sanbuphy/claude-code-source-code | 开源项目源码解析 | 如何利用Claude Code源码打造自己的工具 | 待发 |
+| 2026-03-31 | Kuberwastaken/claude-code | 源码拆解与分析 | 泄露文件揭秘：Claude Code源码拆解 | 待发 |
+| 2026-03-31 | Kuberwastaken/claude-code | 源码拆解与分析 | 技术宅必看！Claude Code拆解全流程 | 待发 |
+| 2026-03-31 | Kuberwastaken/claude-code | 源码拆解与分析 | 从源码看项目背后故事 | 待发 |
+| 2026-03-31 | WecomTeam/wecom-cli | 企业办公AI工具分享 | 在终端玩转企业微信，效率翻倍！ | 待发 |
+| 2026-03-31 | WecomTeam/wecom-cli | 企业办公AI工具分享 | AI+企业微信，办公新体验揭秘 | 待发 |
+| 2026-03-31 | WecomTeam/wecom-cli | 企业办公AI工具分享 | Wecom CLI：企业微信的智能助手 | 待发 |
+| 2026-03-31 | yetone/voice-input-src | 语音输入技术与应用 | 语音输入全解析，效率提升秘诀 | 待发 |
+| 2026-03-31 | yetone/voice-input-src | 语音输入技术与应用 | 从源码看语音识别背后的技术 | 待发 |
+| 2026-03-31 | yetone/voice-input-src | 语音输入技术与应用 | 语音输入神器，告别打字烦恼 | 待发 |
