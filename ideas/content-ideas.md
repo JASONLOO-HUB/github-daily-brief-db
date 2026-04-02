@@ -1,7 +1,7 @@
 ---
 title: "小红书选题池"
 description: "从每日 GitHub 简报中提炼的小红书内容选题"
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 ---
 
 # 小红书选题池
@@ -112,3 +112,19 @@ last_updated: 2026-04-01
 | 2026-04-01 | NanmiCoder/claude-code-haha | 转行复盘 | 我如何搭建本地代码环境，文科生也能学会 | 待发 |
 | 2026-04-01 | NanmiCoder/claude-code-haha | 转行复盘 | 转行AI必备：本地运行环境实操经验 | 待发 |
 | 2026-04-01 | NanmiCoder/claude-code-haha | 转行复盘 | 文科生搭建本地代码环境的详细分享 | 待发 |
+| 2026-04-02 | Gitlawb/openclaude | 工具教程/产品拆解 | 文科生也能懂的多模型AI代理神器——openclaude实操指南 | 待发 |
+| 2026-04-02 | Gitlawb/openclaude | 工具教程/产品拆解 | 为什么openclaude让AI新手秒变多模型达人？ | 待发 |
+| 2026-04-02 | emdash-cms/emdash | 工具教程/职业教育 | 文科生小白也能搞定的全栈CMS——emdash实战教程 | 待发 |
+| 2026-04-02 | emdash-cms/emdash | 工具教程/职业教育 | 从WordPress到emdash：现代CMS转型指南 | 待发 |
+| 2026-04-02 | ultraworkers/claw-code-parity | 行业趋势/产品拆解 | Rust迁移实录：从claw-code看技术升级之路 | 待发 |
+| 2026-04-02 | ultraworkers/claw-code-parity | 行业趋势/产品拆解 | 文科生也能懂的代码迁移背后故事 | 待发 |
+| 2026-04-02 | dominikmartn/nothing-design-skill | 工具教程/产品拆解 | 用AI一键生成工业风UI？nothing-design-skill实测 | 待发 |
+| 2026-04-02 | dominikmartn/nothing-design-skill | 工具教程/产品拆解 | 文科生也能玩转AI设计助手！ | 待发 |
+| 2026-04-02 | HKUDS/OpenHarness | 工具教程/产品拆解 | OpenHarness：打造你的多AI代理协作平台 | 待发 |
+| 2026-04-02 | HKUDS/OpenHarness | 工具教程/产品拆解 | 文科生也能懂的AI代理框架入门 | 待发 |
+| 2026-04-02 | repowise-dev/claude-code-prompts | 工具教程/实战挑战 | 文科生入门：如何写好AI编程助手提示语？ | 待发 |
+| 2026-04-02 | repowise-dev/claude-code-prompts | 工具教程/实战挑战 | AI产品经理必备的提示工程秘籍 | 待发 |
+| 2026-04-02 | mrdoob/three.wasm | 产品拆解/工具教程 | 网页3D加速8倍！three.wasm揭秘 | 待发 |
+| 2026-04-02 | mrdoob/three.wasm | 产品拆解/工具教程 | 文科生也能学会的3D性能优化 | 待发 |
+| 2026-04-02 | 0Chencc/clawgod | 产品拆解/职业教育 | 稳定你的AI助手：clawgod补丁详解 | 待发 |
+| 2026-04-02 | 0Chencc/clawgod | 产品拆解/职业教育 | 文科生也能懂的软件补丁原理 | 待发 |
