@@ -1,17 +1,17 @@
 ---
 project_name: "claw-code"
-github_url: "https://github.com/instructkr/claw-code"
-category: "AI Agent"
-first_seen_date: 2026-03-31
+github_url: "https://github.com/ultraworkers/claw-code"
+category: "效率工具"
+first_seen_date: 2026-04-01
 trend_level: "日榜"
 is_new: true
 has_major_update: false
-stars_approx: "41244"
-stars_on_first_seen: 41244
-language: "Python"
+stars_approx: "126479"
+stars_on_first_seen: 126479
+language: "Rust"
 topics: []
 created_at: "2026-03-31"
-author: "instructkr"
+author: "ultraworkers"
 follow_up: true
 content_potential_rating: "高"
 product_potential_rating: "高"
@@ -19,28 +19,28 @@ product_potential_rating: "高"
 # claw-code
 
 ## 核心原理
-这是一个帮助开发者自动完成代码相关任务的智能工具，能理解代码并执行指令，让编程更高效。
+像高速引擎一样加速代码工作，让程序员更快完成任务。
 
 ## 主要用例
-- 自动完成重复的代码编辑和修改工作
-- 协助调试和解释复杂代码逻辑
-- 通过自然语言指令管理代码仓库和版本控制
+- 文科生用来辅助理解和修改代码，提高学习效率
+- 用它来快速完成编程练习中的重复任务
+- 帮助AI新手更快上手编程项目
 
 ## 为什么会火
-项目结合了AI智能自动化和Rust重写技术，提供更强的性能和易用性，满足开发者对效率的高需求，同时通过开源传播迅速吸引了大量关注。
+极快的性能和广泛的社区支持，使其成为开发效率提升的明星工具。
 
 ## 对 AI 产品经理的价值
-帮助AI产品经理理解如何将自然语言交互和代码自动化结合，提升开发者工具的用户体验。
+适合工具教学支柱，讲解如何利用高效工具辅助文科生理解和处理代码，降低学习门槛。
 
 ## 小红书选题建议
 | 字段 | 内容 |
 |------|------|
-| 选题方向 | AI自动编程工具介绍与使用指南 |
-| 建议标题 1 | 《零基础也能懂！Claw Code让编程变简单》 |
-| 建议标题 2 | 《AI助力写代码，Claw Code深度解析》 |
-| 建议标题 3 | 《如何用Claw Code提升你的编程效率？》 |
+| 选题方向 | 工具教学 |
+| 建议标题 1 | 《我用这个神器，文科生也能轻松搞定代码》 |
+| 建议标题 2 | 《文科生零基础也能用的高效编程辅助工具体验》 |
+| 建议标题 3 | 《转行AI路上，这个工具帮我突破学习瓶颈》 |
 
 ## 产品机会
-基于Claw Code打造面向中国开发者的智能编程助手，支持中文自然语言指令，同时集成企业微信或钉钉沟通，方便团队协作。
+基于Claw-code的低门槛代码辅助学习Web平台，帮助文科生快速理解代码逻辑，提供可视化与语义解读功能。
 
 **是否把做产品变为内容素材：是**
