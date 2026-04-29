@@ -1,0 +1,55 @@
+---
+type: schema
+version: 1
+date: 2026-04-29
+last_checked: 2026-04-29T23:50:00+08:00
+description: "Frontmatter fields for progressive GitHub daily brief context."
+---
+
+required_fields:
+  type:
+    description: "File role. Examples: daily_brief, project_profile, project_snapshot, topic_index, monthly_index."
+  date:
+    description: "Primary date for this file. Use YYYY-MM-DD."
+  repo:
+    description: "Repository full name, owner/name. Use null for aggregate files."
+  owner:
+    description: "GitHub owner or organization. Use null for aggregate files."
+  name:
+    description: "Repository name or aggregate document name."
+  url:
+    description: "Canonical GitHub URL or aggregate page URL."
+  signal_type:
+    description: "new_hot, major_update, evergreen, aggregate, or schema."
+  tags:
+    description: "Search and context routing tags."
+  audience:
+    description: "Primary reader segments."
+  stars:
+    description: "GitHub stargazers count at last_checked. Use null if unavailable."
+  forks:
+    description: "GitHub forks count at last_checked. Use null if unavailable."
+  primary_language:
+    description: "GitHub primary language. Use null if unavailable."
+  license:
+    description: "SPDX license id. Use NOASSERTION or null when GitHub does not expose a clear license."
+  source_urls:
+    description: "List of URLs used for factual claims."
+  pm_value_score:
+    description: "1-5 score for AI product manager usefulness."
+  xiaohongshu_value_score:
+    description: "1-5 score for short-form Chinese AI education content usefulness."
+  product_opportunity_score:
+    description: "1-5 score for practical derivative product opportunity."
+  confidence:
+    description: "low, medium, or high. Reflects source quality and interpretation uncertainty."
+  last_checked:
+    description: "ISO-8601 timestamp with timezone."
+
+progressive_context_rules:
+  - "README and indexes only link and summarize."
+  - "Daily briefs explain why projects matter today."
+  - "Project profiles keep stable explanation, use cases, and PM value."
+  - "Snapshots capture date-specific signals, changes, and source links."
+  - "Topic pages collect cross-project patterns and content/product angles."
+  - "Do not duplicate full project analysis in every aggregate file."
