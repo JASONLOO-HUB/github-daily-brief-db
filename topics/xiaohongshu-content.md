@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-04-29
+date: 2026-04-30
 repo: null
 owner: null
 name: "Xiaohongshu Content"
@@ -20,11 +20,12 @@ primary_language: null
 license: null
 source_urls:
   - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/04/2026-04-29.md"
+  - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/04/2026-04-30.md"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-04-29T23:50:00+08:00
+last_checked: 2026-04-30T11:52:00+08:00
 ---
 
 # Xiaohongshu Content
@@ -34,6 +35,9 @@ last_checked: 2026-04-29T23:50:00+08:00
 - AI 从聊天助手变成工作流：用 Symphony、Dify、OpenHands 讲 agent 任务生命周期。
 - AI 为什么需要记忆：用 MemPalace 讲长期上下文、语义检索和知识图谱。
 - 不会写代码也能用 AI 自动化：用 agent-browser 和 Google Workspace CLI 讲真实软件操作。
+- Coding Agent CLI 群雄战：用 Codex / Claude Code / OpenCode 讲“计划—执行—审查—回滚”的护栏思维。
+- AI 插件时代：用 MCP servers 讲“把工具接入标准化”以及权限/隐私的重要性。
+- 学习者知识工厂：用 Graphify + PDF 入库管道讲“资料→结构→复习”的效率升级。
 
 ## 内容模板
 
