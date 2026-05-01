@@ -1,8 +1,8 @@
 ---
 type: schema
 version: 1
-date: 2026-04-29
-last_checked: 2026-04-29T23:50:00+08:00
+date: 2026-05-01
+last_checked: 2026-05-01T14:45:00+08:00
 description: "Frontmatter fields for progressive GitHub daily brief context."
 ---
 

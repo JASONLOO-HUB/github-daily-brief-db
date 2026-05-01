@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-04-30
+date: 2026-05-01
 repo: null
 owner: null
 name: "Xiaohongshu Content"
@@ -21,11 +21,12 @@ license: null
 source_urls:
   - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/04/2026-04-29.md"
   - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/04/2026-04-30.md"
+  - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/05/2026-05-01.md"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-04-30T11:52:00+08:00
+last_checked: 2026-05-01T14:45:00+08:00
 ---
 
 # Xiaohongshu Content
@@ -38,6 +39,9 @@ last_checked: 2026-04-30T11:52:00+08:00
 - Coding Agent CLI 群雄战：用 Codex / Claude Code / OpenCode 讲“计划—执行—审查—回滚”的护栏思维。
 - AI 插件时代：用 MCP servers 讲“把工具接入标准化”以及权限/隐私的重要性。
 - 学习者知识工厂：用 Graphify + PDF 入库管道讲“资料→结构→复习”的效率升级。
+- AI 住进微信和飞书：用 CowAgent 讲普通用户能感知的 Agent 入口。
+- AI 生成 PPT 的关键不是好看，而是可编辑：用 ppt-master 讲办公 AI 的交付物标准。
+- AI 会用浏览器和终端：用 browser-use、Claude Code、opencode 讲动作能力阶梯。
 
 ## 内容模板
 
