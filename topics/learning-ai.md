@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-01
+date: 2026-05-02
 repo: null
 owner: null
 name: "Learning AI"
@@ -24,11 +24,13 @@ source_urls:
   - "https://github.com/browser-use/browser-use"
   - "https://github.com/langgenius/dify"
   - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/05/2026-05-01.md"
+  - "https://github.com/huggingface/ml-intern"
+  - "https://github.com/addyosmani/agent-skills"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-01T14:45:00+08:00
+last_checked: 2026-05-02T19:20:00+08:00
 ---
 
 # Learning AI
@@ -38,6 +40,8 @@ last_checked: 2026-05-01T14:45:00+08:00
 - [lsdefine/GenericAgent](../projects/lsdefine__GenericAgent/index.md)
 - [browser-use/browser-use](../projects/browser-use__browser-use/index.md)
 - [langgenius/dify](../projects/langgenius__dify/index.md)
+- [huggingface/ml-intern](../projects/huggingface__ml-intern/index.md)
+- [addyosmani/agent-skills](../projects/addyosmani__agent-skills/index.md)
 
 ## 产品观察
 
@@ -48,3 +52,5 @@ last_checked: 2026-05-01T14:45:00+08:00
 1. 先用 browser-use 理解“AI 会操作软件”。
 2. 再用 Dify 理解“AI 应用由 workflow、知识库、模型和工具组成”。
 3. 最后用 GenericAgent 理解“技能、记忆和自进化”的产品想象与风险。
+4. 用 ml-intern 理解“AI 研究流程”不只是聊天，而是读资料、找数据、写脚本、训练、发布的闭环。
+5. 用 agent-skills 理解“好 Agent 需要 SOP”：明确步骤、质量门、验收标准和失败处理。

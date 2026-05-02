@@ -5,7 +5,7 @@ owner: "JASONLOO-HUB"
 target_audience: "中国文科生、AI新手、转型AI产品经理"
 data_source: "GitHub Search API"
 analysis_engine: "GPT-4.1 / Perplexity API"
-last_updated: 2026-05-01
+last_updated: 2026-05-02
 ---
 
 # GitHub Daily Brief Database
@@ -81,7 +81,7 @@ github-daily-brief-db/
 
 ## 如何使用
 
-1. **查看今日简报**：打开 briefs/ 目录下最新日期的文件，例如 briefs/2026/05/2026-05-01.md
+1. **查看今日简报**：打开 briefs/ 目录下最新日期的文件，例如 briefs/2026/05/2026-05-02.md
 2. **查看早期简报**：打开 daily/ 目录下历史日期文件
 3. **深入了解某个项目**：打开 projects/{owner}__{repo}/index.md
 4. **查看当天变化**：打开 projects/{owner}__{repo}/snapshots/YYYY-MM-DD.md
@@ -90,5 +90,6 @@ github-daily-brief-db/
 
 ## 最近简报入口
 
+- [2026-05-02](briefs/2026/05/2026-05-02.md): Agent Skills、设计上下文、可交付设计/PPT 和 coding agent 权限治理。
 - [2026-05-01](briefs/2026/05/2026-05-01.md): Agent 进入桌面、IM、浏览器、终端和 PPT 交付场景。
 - [2026-04-30](briefs/2026/04/2026-04-30.md): Coding Agent CLI 对打、MCP 工具生态、知识图谱与资料入库。

@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-01
+date: 2026-05-02
 repo: null
 owner: null
 name: "AI Agent"
@@ -28,11 +28,14 @@ source_urls:
   - "https://github.com/zhayujie/CowAgent"
   - "https://github.com/lsdefine/GenericAgent"
   - "https://github.com/browser-use/browser-use"
+  - "https://github.com/addyosmani/agent-skills"
+  - "https://github.com/huggingface/ml-intern"
+  - "https://github.com/aaif-goose/goose"
 pm_value_score: 5
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-01T14:45:00+08:00
+last_checked: 2026-05-02T19:20:00+08:00
 ---
 
 # AI Agent
@@ -51,10 +54,13 @@ last_checked: 2026-05-01T14:45:00+08:00
 - [zhayujie/CowAgent](../projects/zhayujie__CowAgent/index.md)
 - [lsdefine/GenericAgent](../projects/lsdefine__GenericAgent/index.md)
 - [browser-use/browser-use](../projects/browser-use__browser-use/index.md)
+- [addyosmani/agent-skills](../projects/addyosmani__agent-skills/index.md)
+- [huggingface/ml-intern](../projects/huggingface__ml-intern/index.md)
+- [aaif-goose/goose](../projects/aaif-goose__goose/index.md)
 
 ## 产品观察
 
-Agent 产品正在从“模型会不会调用工具”转向三件更硬的事情：**任务生命周期、权限与护栏、证据与可回滚**。Codex / OpenCode 这类 coding agent CLI 的走热说明：用户真正买单的是“可控交付”，而不是更会聊天的 UI。2026-05-01 的新增信号是：Agent 正在进入桌面工作台、微信/飞书/钉钉、浏览器和技能树，而不是停留在单一聊天入口。
+Agent 产品正在从“模型会不会调用工具”转向三件更硬的事情：**任务生命周期、权限与护栏、证据与可回滚**。Codex / OpenCode 这类 coding agent CLI 的走热说明：用户真正买单的是“可控交付”，而不是更会聊天的 UI。2026-05-02 的新增信号是：Agent Skills 和 DESIGN.md 把长期上下文、设计规则、工程流程和内容生产动作做成可复用资产。
 
 ## 小红书切入
 
