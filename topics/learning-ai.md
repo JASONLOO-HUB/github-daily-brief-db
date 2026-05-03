@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-02
+date: 2026-05-03
 repo: null
 owner: null
 name: "Learning AI"
@@ -26,11 +26,14 @@ source_urls:
   - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/briefs/2026/05/2026-05-01.md"
   - "https://github.com/huggingface/ml-intern"
   - "https://github.com/addyosmani/agent-skills"
+  - "https://github.com/shareAI-lab/learn-claude-code"
+  - "https://github.com/google-gemini/gemini-cli"
+  - "https://github.com/CopilotKit/CopilotKit"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-02T19:20:00+08:00
+last_checked: 2026-05-03T11:16:18+08:00
 ---
 
 # Learning AI
@@ -42,6 +45,9 @@ last_checked: 2026-05-02T19:20:00+08:00
 - [langgenius/dify](../projects/langgenius__dify/index.md)
 - [huggingface/ml-intern](../projects/huggingface__ml-intern/index.md)
 - [addyosmani/agent-skills](../projects/addyosmani__agent-skills/index.md)
+- [shareAI-lab/learn-claude-code](../projects/shareAI-lab__learn-claude-code/index.md)
+- [google-gemini/gemini-cli](../projects/google-gemini__gemini-cli/index.md)
+- [CopilotKit/CopilotKit](../projects/CopilotKit__CopilotKit/index.md)
 
 ## 产品观察
 
@@ -54,3 +60,5 @@ last_checked: 2026-05-02T19:20:00+08:00
 3. 最后用 GenericAgent 理解“技能、记忆和自进化”的产品想象与风险。
 4. 用 ml-intern 理解“AI 研究流程”不只是聊天，而是读资料、找数据、写脚本、训练、发布的闭环。
 5. 用 agent-skills 理解“好 Agent 需要 SOP”：明确步骤、质量门、验收标准和失败处理。
+6. 用 learn-claude-code 理解“工具学习也要任务化”：每次练习都要有输入、执行和验收。
+7. 用 Gemini CLI / CopilotKit 对比“终端 Agent”和“页面内 Copilot”的不同产品形态。
