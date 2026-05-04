@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-03
+date: 2026-05-04
 repo: null
 owner: null
 name: "Learning AI"
@@ -29,11 +29,15 @@ source_urls:
   - "https://github.com/shareAI-lab/learn-claude-code"
   - "https://github.com/google-gemini/gemini-cli"
   - "https://github.com/CopilotKit/CopilotKit"
+  - "https://github.com/Q00/ouroboros"
+  - "https://github.com/virattt/dexter"
+  - "https://github.com/abhigyanpatwari/GitNexus"
+  - "https://github.com/cocoindex-io/cocoindex"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-03T11:16:18+08:00
+last_checked: 2026-05-04T11:09:25+08:00
 ---
 
 # Learning AI
@@ -48,6 +52,10 @@ last_checked: 2026-05-03T11:16:18+08:00
 - [shareAI-lab/learn-claude-code](../projects/shareAI-lab__learn-claude-code/index.md)
 - [google-gemini/gemini-cli](../projects/google-gemini__gemini-cli/index.md)
 - [CopilotKit/CopilotKit](../projects/CopilotKit__CopilotKit/index.md)
+- [Q00/ouroboros](../projects/Q00__ouroboros/index.md)
+- [virattt/dexter](../projects/virattt__dexter/index.md)
+- [abhigyanpatwari/GitNexus](../projects/abhigyanpatwari__GitNexus/index.md)
+- [cocoindex-io/cocoindex](../projects/cocoindex-io__cocoindex/index.md)
 
 ## 产品观察
 
@@ -62,3 +70,6 @@ last_checked: 2026-05-03T11:16:18+08:00
 5. 用 agent-skills 理解“好 Agent 需要 SOP”：明确步骤、质量门、验收标准和失败处理。
 6. 用 learn-claude-code 理解“工具学习也要任务化”：每次练习都要有输入、执行和验收。
 7. 用 Gemini CLI / CopilotKit 对比“终端 Agent”和“页面内 Copilot”的不同产品形态。
+8. 用 ouroboros 理解“个人 Agent OS”：AI 如何连接文件、网页和工具。
+9. 用 dexter / GitNexus 理解“代码库学习”：先建立结构地图，再做问答和改造。
+10. 用 cocoindex 理解“知识库不是上传资料，而是持续更新的数据管道”。
