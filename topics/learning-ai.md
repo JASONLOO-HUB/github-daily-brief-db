@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-04
+date: 2026-05-05
 repo: null
 owner: null
 name: "Learning AI"
@@ -33,11 +33,15 @@ source_urls:
   - "https://github.com/virattt/dexter"
   - "https://github.com/abhigyanpatwari/GitNexus"
   - "https://github.com/cocoindex-io/cocoindex"
+  - "https://github.com/forrestchang/andrej-karpathy-skills"
+  - "https://github.com/mattpocock/skills"
+  - "https://github.com/google/skills"
+  - "https://github.com/VoltAgent/awesome-agent-skills"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-04T11:09:25+08:00
+last_checked: 2026-05-05T19:20:00+08:00
 ---
 
 # Learning AI
@@ -56,6 +60,10 @@ last_checked: 2026-05-04T11:09:25+08:00
 - [virattt/dexter](../projects/virattt__dexter/index.md)
 - [abhigyanpatwari/GitNexus](../projects/abhigyanpatwari__GitNexus/index.md)
 - [cocoindex-io/cocoindex](../projects/cocoindex-io__cocoindex/index.md)
+- [forrestchang/andrej-karpathy-skills](../projects/forrestchang__andrej-karpathy-skills/index.md)
+- [mattpocock/skills](../projects/mattpocock__skills/index.md)
+- [google/skills](../projects/google__skills/index.md)
+- [VoltAgent/awesome-agent-skills](../projects/VoltAgent__awesome-agent-skills/index.md)
 
 ## 产品观察
 
@@ -73,3 +81,5 @@ last_checked: 2026-05-04T11:09:25+08:00
 8. 用 ouroboros 理解“个人 Agent OS”：AI 如何连接文件、网页和工具。
 9. 用 dexter / GitNexus 理解“代码库学习”：先建立结构地图，再做问答和改造。
 10. 用 cocoindex 理解“知识库不是上传资料，而是持续更新的数据管道”。
+11. 用 Karpathy Skills、mattpocock/skills 和 google/skills 理解“给 AI 写 SOP”。
+12. 用 awesome-agent-skills 训练信息筛选能力：先看适用任务，再看维护状态和可复现性。

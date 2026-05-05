@@ -1,6 +1,6 @@
 ---
 type: repository_index
-date: 2026-05-04
+date: 2026-05-05
 repo: null
 owner: "JASONLOO-HUB"
 name: "github-daily-brief-db"
@@ -25,13 +25,13 @@ pm_value_score: 5
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: high
-last_checked: 2026-05-04T11:09:25+08:00
+last_checked: 2026-05-05T19:20:00+08:00
 title: "GitHub Daily Brief Database"
 description: "每日 GitHub 热门项目情报库 · 小红书选题库 · AI 产品机会库"
 target_audience: "中国文科生、AI新手、转型AI产品经理"
 data_source: "GitHub Search API"
 analysis_engine: "GPT-4.1 / Perplexity API"
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ---
 
 # GitHub Daily Brief Database
@@ -116,6 +116,7 @@ github-daily-brief-db/
 
 ## 最近简报入口
 
+- [2026-05-05](briefs/2026/05/2026-05-05.md): Agent Skills、官方技能库、Agent OS、网页数据入口和 AI 工作流平台。
 - [2026-05-04](briefs/2026/05/2026-05-04.md): Agent OS、代码库理解、RAG 数据管道、视频/语音内容和发布自动化。
 - [2026-05-03](briefs/2026/05/2026-05-03.md): Agent 学习路径、沙箱、computer-use、主动触达和 agentic UI。
 - [2026-05-02](briefs/2026/05/2026-05-02.md): Agent Skills、设计上下文、可交付设计/PPT 和 coding agent 权限治理。

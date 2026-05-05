@@ -1,8 +1,29 @@
 ---
 type: schema
 version: 1
-date: 2026-05-04
-last_checked: 2026-05-04T11:09:25+08:00
+date: 2026-05-05
+repo: null
+owner: "JASONLOO-HUB"
+name: "frontmatter"
+url: "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/schema/frontmatter.yaml"
+signal_type: schema
+tags:
+  - schema
+  - metadata
+audience:
+  - ai_product_manager
+  - xiaohongshu_creator
+stars: null
+forks: null
+primary_language: null
+license: null
+source_urls:
+  - "https://github.com/JASONLOO-HUB/github-daily-brief-db/blob/main/schema/frontmatter.yaml"
+pm_value_score: 5
+xiaohongshu_value_score: 4
+product_opportunity_score: 4
+confidence: high
+last_checked: 2026-05-05T19:20:00+08:00
 description: "Frontmatter fields for progressive GitHub daily brief context."
 ---
 
@@ -20,7 +41,7 @@ required_fields:
   url:
     description: "Canonical GitHub URL or aggregate page URL."
   signal_type:
-    description: "new_hot, major_update, evergreen, aggregate, or schema."
+    description: "new_hot, major_update, evergreen, aggregate, or schema. Separate facts from inference in body content."
   tags:
     description: "Search and context routing tags."
   audience:

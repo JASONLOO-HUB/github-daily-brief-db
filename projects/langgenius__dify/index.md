@@ -27,7 +27,7 @@ pm_value_score: 5
 xiaohongshu_value_score: 4
 product_opportunity_score: 5
 confidence: high
-last_checked: 2026-05-01T14:45:00+08:00
+last_checked: 2026-05-05T19:20:00+08:00
 ---
 
 # langgenius/dify
@@ -66,3 +66,8 @@ Dify 功能重，普通用户自托管和配置成本高。对小红书受众更
 
 事实：本轮继续把 Dify 作为 major_update 观察对象，因为它代表 workflow、RAG、Agent、模型接入和 LLMOps 平台化路线。
 推断：当更多入口型 Agent 项目走热时，Dify 的长期价值更像“AI 应用中台”，适合被拆成课程和模板市场，而不是单独作为聊天工具讲解。
+
+## 2026-05-05 长期档案更新
+
+事实：Dify 1.14.0 release 页面继续强调协作、workflow、Human-in-the-loop、插件和 MCP 相关能力。
+推断：Dify 的长期价值正在从“低代码 LLM 应用”扩展到“带人工确认和插件生态的 AI 工作流平台”，适合和 n8n、Ruflo 做产品形态对比。

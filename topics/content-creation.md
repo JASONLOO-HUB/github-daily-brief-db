@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-04
+date: 2026-05-05
 repo: null
 owner: null
 name: "Content Creation"
@@ -32,11 +32,13 @@ source_urls:
   - "https://github.com/OpenBMB/VoxCPM"
   - "https://github.com/AIDC-AI/Pixelle-Video"
   - "https://github.com/simstudioai/sim"
+  - "https://github.com/n8n-io/n8n"
+  - "https://github.com/D4Vinci/Scrapling"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-04T11:09:25+08:00
+last_checked: 2026-05-05T19:20:00+08:00
 ---
 
 # Content Creation
@@ -55,10 +57,12 @@ last_checked: 2026-05-04T11:09:25+08:00
 - [OpenBMB/VoxCPM](../projects/OpenBMB__VoxCPM/index.md)
 - [AIDC-AI/Pixelle-Video](../projects/AIDC-AI__Pixelle-Video/index.md)
 - [simstudioai/sim](../projects/simstudioai__sim/index.md)
+- [n8n-io/n8n](../projects/n8n-io__n8n/index.md)
+- [D4Vinci/Scrapling](../projects/D4Vinci__Scrapling/index.md)
 
 ## 产品观察
 
-内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload 和 sim 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。
+内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload、sim 和 n8n 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。Scrapling 这类数据入口项目说明：创作者的 AI 工作流还需要稳定资料来源。
 
 ## 小红书切入
 
@@ -68,3 +72,5 @@ last_checked: 2026-05-04T11:09:25+08:00
 - “小红书 AI 账号的下一步：把选题、资料、脚本和发布日历做成自动化流程。”
 - “AI 做视频不难，难的是把素材、口播、剪辑和发布串起来。”
 - “多平台分发是 AI 内容账号最容易被忽略的生产力。”
+- “AI 做选题前，先把公开网页变成有来源的资料包。”
+- “小红书账号的自动化，不是偷懒，是把重复流程节点化。”
