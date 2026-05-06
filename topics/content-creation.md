@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-05
+date: 2026-05-06
 repo: null
 owner: null
 name: "Content Creation"
@@ -34,11 +34,12 @@ source_urls:
   - "https://github.com/simstudioai/sim"
   - "https://github.com/n8n-io/n8n"
   - "https://github.com/D4Vinci/Scrapling"
+  - "https://github.com/AIDC-AI/Pixelle-Video"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-05T19:20:00+08:00
+last_checked: 2026-05-06T11:05:00+08:00
 ---
 
 # Content Creation
@@ -62,7 +63,7 @@ last_checked: 2026-05-05T19:20:00+08:00
 
 ## 产品观察
 
-内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload、sim 和 n8n 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。Scrapling 这类数据入口项目说明：创作者的 AI 工作流还需要稳定资料来源。
+内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload、sim 和 n8n 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。2026-05-06 的 Pixelle-Video 热度进一步说明：短视频账号最需要的不是单点生成，而是脚本、素材、配音、BGM 和合成的一体流水线。
 
 ## 小红书切入
 
@@ -74,3 +75,4 @@ last_checked: 2026-05-05T19:20:00+08:00
 - “多平台分发是 AI 内容账号最容易被忽略的生产力。”
 - “AI 做选题前，先把公开网页变成有来源的资料包。”
 - “小红书账号的自动化，不是偷懒，是把重复流程节点化。”
+- “AI 短视频真正的机会，是把每条内容拆成可复用生产线。”

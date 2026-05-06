@@ -1,6 +1,6 @@
 ---
 type: project_profile
-date: 2026-05-04
+date: 2026-05-06
 repo: "cocoindex-io/cocoindex"
 owner: "cocoindex-io"
 name: "cocoindex"
@@ -14,26 +14,26 @@ tags:
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: 3000
-forks: 225
+stars: 8400
+forks: 618
 primary_language: "Python"
 license: "Apache-2.0"
 source_urls:
   - "https://github.com/cocoindex-io/cocoindex"
-  - "https://github.com/cocoindex-io/cocoindex/releases"
+  - "https://github.com/cocoindex-io/cocoindex/releases/tag/v1.0.3"
   - "https://github.com/trending?since=daily"
 pm_value_score: 5
 xiaohongshu_value_score: 4
 product_opportunity_score: 5
-confidence: medium
-last_checked: 2026-05-04T11:09:25+08:00
+confidence: high
+last_checked: 2026-05-06T11:05:00+08:00
 ---
 
 # cocoindex-io/cocoindex
 
 ## 稳定定位
 
-cocoindex 是面向 AI 应用的数据索引和增量处理框架，关注如何把文档、网页、代码和业务数据持续转换成可检索、可追踪、可更新的知识。
+cocoindex 是面向 AI 应用的数据索引和增量处理框架，关注如何把文档、网页、代码和业务数据持续转换成可检索、可追踪、可更新的知识，并通过连接器、图数据库和 Agent skill 文档进入更完整的数据基础设施层。
 
 ## 原理解释（面向非工程背景）
 
@@ -42,7 +42,7 @@ cocoindex 是面向 AI 应用的数据索引和增量处理框架，关注如何
 ## 典型用例
 
 - 企业知识库和客服机器人背后的数据同步。
-- 代码库、文档站、产品手册的持续索引。
+- 代码库、文档站、产品手册的持续索引和图谱化。
 - RAG 应用的增量更新和数据质量治理。
 
 ## 对 AI 产品经理的价值

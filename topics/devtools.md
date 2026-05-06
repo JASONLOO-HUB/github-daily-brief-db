@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-05
+date: 2026-05-06
 repo: null
 owner: null
 name: "Devtools"
@@ -22,11 +22,15 @@ source_urls:
   - "https://github.com/n8n-io/n8n"
   - "https://github.com/ruvnet/ruflo"
   - "https://github.com/mattpocock/skills"
+  - "https://github.com/Hmbown/DeepSeek-TUI"
+  - "https://github.com/browserbase/skills"
+  - "https://github.com/mksglu/context-mode"
+  - "https://github.com/cocoindex-io/cocoindex"
 pm_value_score: 5
 xiaohongshu_value_score: 4
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-05T19:20:00+08:00
+last_checked: 2026-05-06T11:05:00+08:00
 ---
 
 # Devtools
@@ -37,13 +41,18 @@ last_checked: 2026-05-05T19:20:00+08:00
 - [n8n-io/n8n](../projects/n8n-io__n8n/index.md)
 - [ruvnet/ruflo](../projects/ruvnet__ruflo/index.md)
 - [mattpocock/skills](../projects/mattpocock__skills/index.md)
+- [Hmbown/DeepSeek-TUI](../projects/Hmbown__DeepSeek-TUI/index.md)
+- [browserbase/skills](../projects/browserbase__skills/index.md)
+- [mksglu/context-mode](../projects/mksglu__context-mode/index.md)
+- [cocoindex-io/cocoindex](../projects/cocoindex-io__cocoindex/index.md)
 
 ## 产品观察
 
-AI devtools 的机会不只在“让模型写代码”，还在让数据、任务、工具和团队流程变得可编排。Scrapling 解决数据入口，Ruflo 解决任务运行，n8n 解决业务系统连接，Skills 解决专业经验复用。
+AI devtools 的机会不只在“让模型写代码”，还在让数据、任务、工具、上下文和团队流程变得可编排。Scrapling 和 cocoindex 解决数据入口，Ruflo 解决任务运行，context-mode 解决上下文浪费，Browserbase Skills 解决网页操作，DeepSeek-TUI 解决终端入口。
 
 ## 小红书切入
 
 - “AI 产品经理看开发者工具，不要只看代码，要看它解决了哪一段流程。”
 - “网页采集、任务调度、工作流自动化，都是 AI 应用背后的基础设施。”
 - “普通人做 AI 自动化，先学会把任务拆成节点。”
+- “AI 开发工具真正的壁垒，是能不能看网页、跑命令、保留证据。”

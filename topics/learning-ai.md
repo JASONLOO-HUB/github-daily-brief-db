@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-05
+date: 2026-05-06
 repo: null
 owner: null
 name: "Learning AI"
@@ -37,11 +37,14 @@ source_urls:
   - "https://github.com/mattpocock/skills"
   - "https://github.com/google/skills"
   - "https://github.com/VoltAgent/awesome-agent-skills"
+  - "https://github.com/Hmbown/DeepSeek-TUI"
+  - "https://github.com/LearningCircuit/local-deep-research"
+  - "https://github.com/mksglu/context-mode"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-05T19:20:00+08:00
+last_checked: 2026-05-06T11:05:00+08:00
 ---
 
 # Learning AI
@@ -64,6 +67,9 @@ last_checked: 2026-05-05T19:20:00+08:00
 - [mattpocock/skills](../projects/mattpocock__skills/index.md)
 - [google/skills](../projects/google__skills/index.md)
 - [VoltAgent/awesome-agent-skills](../projects/VoltAgent__awesome-agent-skills/index.md)
+- [Hmbown/DeepSeek-TUI](../projects/Hmbown__DeepSeek-TUI/index.md)
+- [LearningCircuit/local-deep-research](../projects/LearningCircuit__local-deep-research/index.md)
+- [mksglu/context-mode](../projects/mksglu__context-mode/index.md)
 
 ## 产品观察
 
@@ -83,3 +89,6 @@ last_checked: 2026-05-05T19:20:00+08:00
 10. 用 cocoindex 理解“知识库不是上传资料，而是持续更新的数据管道”。
 11. 用 Karpathy Skills、mattpocock/skills 和 google/skills 理解“给 AI 写 SOP”。
 12. 用 awesome-agent-skills 训练信息筛选能力：先看适用任务，再看维护状态和可复现性。
+13. 用 DeepSeek-TUI 理解“终端 Agent”如何把对话变成命令和文件操作。
+14. 用 local-deep-research 理解“深度研究”如何拆问题、找证据、生成报告。
+15. 用 context-mode 理解“上下文窗口”为什么决定长任务质量。
