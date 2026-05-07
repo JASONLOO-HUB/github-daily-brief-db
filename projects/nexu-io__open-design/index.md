@@ -1,11 +1,11 @@
 ---
 type: project_profile
-date: 2026-05-02
+date: 2026-05-07
 repo: "nexu-io/open-design"
 owner: "nexu-io"
 name: "open-design"
 url: "https://github.com/nexu-io/open-design"
-signal_type: new_hot
+signal_type: major_update
 tags:
   - design-ai
   - agent-skills
@@ -15,8 +15,8 @@ audience:
   - ai_product_manager
   - xiaohongshu_creator
   - chinese_liberal_arts_ai_learners
-stars: 5200
-forks: 600
+stars: 5500
+forks: 642
 primary_language: "TypeScript"
 license: "Apache-2.0"
 source_urls:
@@ -27,14 +27,14 @@ pm_value_score: 5
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-02T19:20:00+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # nexu-io/open-design
 
 ## 稳定定位
 
-Open Design 是一个本地优先的开源 AI 设计工作台，目标是复刻 Claude Design 式的 artifact-first 体验，同时允许用户接入不同模型和本地资源。
+Open Design 是一个本地优先的开源 AI 设计工作台，目标是复刻 Claude Design 式的 artifact-first 体验，同时允许用户接入不同模型和本地资源。2026-05-07 观察时，它仍在设计 Agent 和本地优先工具链里保持较高关注。
 
 ## 原理解释
 

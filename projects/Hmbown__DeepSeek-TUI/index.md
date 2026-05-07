@@ -1,6 +1,6 @@
 ---
 type: project_profile
-date: 2026-05-06
+date: 2026-05-07
 repo: "Hmbown/DeepSeek-TUI"
 owner: "Hmbown"
 name: "DeepSeek-TUI"
@@ -14,8 +14,8 @@ tags:
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: 7100
-forks: 541
+stars: 13700
+forks: 1100
 primary_language: "Rust"
 license: "MIT"
 source_urls:
@@ -25,14 +25,14 @@ pm_value_score: 4
 xiaohongshu_value_score: 4
 product_opportunity_score: 4
 confidence: high
-last_checked: 2026-05-06T11:05:00+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # Hmbown/DeepSeek-TUI
 
 ## 稳定定位
 
-DeepSeek-TUI 是一个面向终端的 DeepSeek coding agent/TUI 工具，提供 npm、Cargo 和手动下载方式，让用户在命令行里与模型、项目文件和开发任务协作。
+DeepSeek-TUI 是一个面向终端的 DeepSeek coding agent/TUI 工具，提供 npm、Cargo 和手动下载方式，让用户在命令行里与模型、项目文件和开发任务协作。2026-05-07 观察时，仓库热度已从前一日的 7k 级上升到 13k 级 stars。
 
 ## 原理解释
 

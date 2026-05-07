@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-06
+date: 2026-05-07
 repo: null
 owner: null
 name: "Learning AI"
@@ -40,11 +40,14 @@ source_urls:
   - "https://github.com/Hmbown/DeepSeek-TUI"
   - "https://github.com/LearningCircuit/local-deep-research"
   - "https://github.com/mksglu/context-mode"
+  - "https://github.com/VectifyAI/PageIndex"
+  - "https://github.com/Lum1104/Understand-Anything"
+  - "https://github.com/Leonxlnx/taste-skill"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-06T11:05:00+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # Learning AI
@@ -70,6 +73,9 @@ last_checked: 2026-05-06T11:05:00+08:00
 - [Hmbown/DeepSeek-TUI](../projects/Hmbown__DeepSeek-TUI/index.md)
 - [LearningCircuit/local-deep-research](../projects/LearningCircuit__local-deep-research/index.md)
 - [mksglu/context-mode](../projects/mksglu__context-mode/index.md)
+- [VectifyAI/PageIndex](../projects/VectifyAI__PageIndex/index.md)
+- [Lum1104/Understand-Anything](../projects/Lum1104__Understand-Anything/index.md)
+- [Leonxlnx/taste-skill](../projects/Leonxlnx__taste-skill/index.md)
 
 ## 产品观察
 
@@ -92,3 +98,6 @@ last_checked: 2026-05-06T11:05:00+08:00
 13. 用 DeepSeek-TUI 理解“终端 Agent”如何把对话变成命令和文件操作。
 14. 用 local-deep-research 理解“深度研究”如何拆问题、找证据、生成报告。
 15. 用 context-mode 理解“上下文窗口”为什么决定长任务质量。
+16. 用 PageIndex 理解“AI 读资料”为什么需要目录、索引和证据定位。
+17. 用 Understand-Anything 理解“多模态”不是生成图片，而是看懂图像、视频和文档。
+18. 用 taste-skill 理解“审美规则”也能被写成 AI 可复用的 Skill。

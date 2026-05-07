@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-06
+date: 2026-05-07
 repo: null
 owner: null
 name: "Content Creation"
@@ -31,6 +31,8 @@ source_urls:
   - "https://github.com/dreammis/social-auto-upload"
   - "https://github.com/OpenBMB/VoxCPM"
   - "https://github.com/AIDC-AI/Pixelle-Video"
+  - "https://github.com/Lum1104/Understand-Anything"
+  - "https://github.com/Leonxlnx/taste-skill"
   - "https://github.com/simstudioai/sim"
   - "https://github.com/n8n-io/n8n"
   - "https://github.com/D4Vinci/Scrapling"
@@ -39,7 +41,7 @@ pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-06T11:05:00+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # Content Creation
@@ -60,10 +62,12 @@ last_checked: 2026-05-06T11:05:00+08:00
 - [simstudioai/sim](../projects/simstudioai__sim/index.md)
 - [n8n-io/n8n](../projects/n8n-io__n8n/index.md)
 - [D4Vinci/Scrapling](../projects/D4Vinci__Scrapling/index.md)
+- [Lum1104/Understand-Anything](../projects/Lum1104__Understand-Anything/index.md)
+- [Leonxlnx/taste-skill](../projects/Leonxlnx__taste-skill/index.md)
 
 ## 产品观察
 
-内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload、sim 和 n8n 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。2026-05-06 的 Pixelle-Video 热度进一步说明：短视频账号最需要的不是单点生成，而是脚本、素材、配音、BGM 和合成的一体流水线。
+内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload、sim 和 n8n 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。2026-05-07 的新增信号是：创作工具还需要先理解素材、沉淀审美规则，再进入生成环节。
 
 ## 小红书切入
 
@@ -76,3 +80,5 @@ last_checked: 2026-05-06T11:05:00+08:00
 - “AI 做选题前，先把公开网页变成有来源的资料包。”
 - “小红书账号的自动化，不是偷懒，是把重复流程节点化。”
 - “AI 短视频真正的机会，是把每条内容拆成可复用生产线。”
+- “为什么 AI 做图显廉价？因为没有长期审美规则和反例库。”
+- “AI 先帮你看懂素材，再帮你写脚本，效果会比直接生成更稳。”

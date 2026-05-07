@@ -1,11 +1,11 @@
 ---
 type: project_profile
-date: 2026-05-03
+date: 2026-05-07
 repo: "bytedance/deer-flow"
 owner: "bytedance"
 name: "deer-flow"
 url: "https://github.com/bytedance/deer-flow"
-signal_type: new_hot
+signal_type: major_update
 tags:
   - ai-agent
   - deep-research
@@ -14,8 +14,8 @@ tags:
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: 22100
-forks: 2600
+stars: 28400
+forks: 3000
 primary_language: "Python"
 license: "MIT"
 source_urls:
@@ -24,14 +24,14 @@ pm_value_score: 5
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-03T11:16:18+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # bytedance/deer-flow
 
 ## 稳定定位
 
-DeerFlow 是字节开源的 deep research / multi-agent 工作流项目，强调把研究任务拆成规划、搜索、阅读、整理、写作等步骤，并通过开源 workflow 编排起来。
+DeerFlow 是字节开源的 deep research / multi-agent 工作流项目，强调把研究任务拆成规划、搜索、阅读、整理、写作等步骤，并通过开源 workflow 编排起来。2026-05-07 观察时，仓库已达到 28k 级 stars，仍是研究型 Agent 的热门样本。
 
 ## 原理解释（面向非工程背景）
 

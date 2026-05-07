@@ -1,11 +1,11 @@
 ---
 type: project_profile
-date: 2026-05-02
+date: 2026-05-07
 repo: "addyosmani/agent-skills"
 owner: "addyosmani"
 name: "agent-skills"
 url: "https://github.com/addyosmani/agent-skills"
-signal_type: new_hot
+signal_type: major_update
 tags:
   - agent-skills
   - coding-agent
@@ -14,7 +14,7 @@ tags:
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: null
+stars: 143000
 forks: 2200
 primary_language: "JavaScript"
 license: "Apache-2.0"
@@ -26,14 +26,14 @@ pm_value_score: 5
 xiaohongshu_value_score: 4
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-02T19:20:00+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # addyosmani/agent-skills
 
 ## 稳定定位
 
-agent-skills 是一组面向 coding agent 的可复用 Skill 包，覆盖性能、测试、代码审查、重构、发布和工程质量等流程。
+agent-skills 是一组面向 coding agent 的可复用 Skill 包，覆盖性能、测试、代码审查、重构、发布和工程质量等流程。2026-05-07 观察时，它仍是解释“Agent Skills = 可复用 SOP”的核心样本。
 
 ## 原理解释
 

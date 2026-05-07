@@ -1,6 +1,6 @@
 ---
 type: project_profile
-date: 2026-05-06
+date: 2026-05-07
 repo: "ruvnet/ruflo"
 owner: "ruvnet"
 name: "ruflo"
@@ -14,7 +14,7 @@ tags:
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: 43700
+stars: 44300
 forks: 4900
 primary_language: "JavaScript"
 license: "MIT"
@@ -25,14 +25,14 @@ pm_value_score: 4
 xiaohongshu_value_score: 4
 product_opportunity_score: 4
 confidence: high
-last_checked: 2026-05-06T11:05:00+08:00
+last_checked: 2026-05-07T11:09:38+08:00
 ---
 
 # ruvnet/ruflo
 
 ## 稳定定位
 
-Ruflo 是面向 Agent 和自动化任务的 CLI/运行层项目，重点在于把任务运行、daemon、插件脚本、MCP 工具和跨平台执行组织起来。
+Ruflo 是面向 Agent 和自动化任务的 CLI/运行层项目，重点在于把任务运行、daemon、插件脚本、MCP 工具和跨平台执行组织起来。2026-05-07 观察时，release 页面显示仍在围绕任务运行和跨平台稳定性迭代。
 
 ## 原理解释
 
