@@ -1,6 +1,6 @@
 ---
 type: project_profile
-date: 2026-05-07
+date: 2026-05-11
 repo: "addyosmani/agent-skills"
 owner: "addyosmani"
 name: "agent-skills"
@@ -14,7 +14,7 @@ tags:
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: 143000
+stars: 152000
 forks: 2200
 primary_language: "JavaScript"
 license: "Apache-2.0"
@@ -26,7 +26,8 @@ pm_value_score: 5
 xiaohongshu_value_score: 4
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-07T11:09:38+08:00
+last_checked: 2026-05-11T16:30:00+08:00
+updated_observation: "2026-05-11: GitHub Explore continued to surface agent-skills as a high-signal Skill ecosystem example."
 ---
 
 # addyosmani/agent-skills
@@ -34,6 +35,8 @@ last_checked: 2026-05-07T11:09:38+08:00
 ## 稳定定位
 
 agent-skills 是一组面向 coding agent 的可复用 Skill 包，覆盖性能、测试、代码审查、重构、发布和工程质量等流程。2026-05-07 观察时，它仍是解释“Agent Skills = 可复用 SOP”的核心样本。
+
+2026-05-11 更新：该项目继续作为 GitHub Explore 可见的高热 Skill 样本，适合从“开发者 SOP”扩展到“AI 产品经理和内容创作者的可安装工作流资产”角度持续跟踪。
 
 ## 原理解释
 

@@ -1,62 +1,62 @@
 ---
 type: project_profile
-date: 2026-04-30
+date: 2026-05-11
 repo: "NousResearch/hermes-agent"
 owner: "NousResearch"
 name: "hermes-agent"
 url: "https://github.com/NousResearch/hermes-agent"
-signal_type: new_hot
+signal_type: major_update
 tags:
   - ai-agent
+  - self-improving-agent
   - memory
-  - learning-loop
-  - multi-model
+  - automation
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-  - chinese_liberal_arts_ai_learners
-stars: null
-forks: null
+stars: 57500
+forks: 8200
 primary_language: "Python"
-license: "MIT"
+license: "Apache-2.0"
 source_urls:
   - "https://github.com/NousResearch/hermes-agent"
   - "https://github.com/NousResearch/hermes-agent/releases"
+  - "https://newreleases.io/project/github/NousResearch/hermes-agent/release/v0.13.0"
 pm_value_score: 5
-xiaohongshu_value_score: 5
+xiaohongshu_value_score: 4
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-04-30T11:52:00+08:00
+last_checked: 2026-05-11T16:30:00+08:00
 ---
 
 # NousResearch/hermes-agent
 
 ## 稳定定位
 
-Hermes-Agent 是 NousResearch 开源的 agent 系统，主打“从经验学习”：通过反馈、记忆与技能生成，把一次次任务执行沉淀成可复用能力，并支持多模型与多通道交互。
+Hermes Agent 是 NousResearch 的自进化个人 AI Agent 项目，强调长期运行、记忆、任务管理和工具使用。
 
 ## 原理解释
 
-它更像“会成长的个人助理”：你给它任务，它完成后会把关键经验抽取出来，生成可复用的技能/规则，并把你与任务的上下文以记忆形式保存下来。对非工程背景的人来说，可以理解为“不会每次都从零开始”的 AI，而是有学习闭环：做事 → 总结 → 变强 → 下次更快。
+可以把它理解成“会做任务、会记笔记、会复盘的个人 AI 助手”。它不仅调用模型回答问题，还要维护任务列表、保存状态、使用工具、在失败后恢复，并逐步积累用户偏好和工作知识。
 
 ## 典型用例
 
-- 个人工作流助理：整理信息、写作、计划、复盘，并在长期使用中越来越懂你。
-- 团队知识沉淀：把重复问题（规范、流程、模板）沉淀成可调用技能。
-- 长期运行的自动化：在 VPS 上持续跑任务（例如监控信息源、生成日报）。
+- 个人自动化：整理资料、追踪任务、生成报告。
+- 研究工作流：分解问题、检索信息、保存中间结论。
+- Agent 产品研究：观察长期记忆和任务恢复如何落到工程实现。
 
 ## 对 AI 产品经理的价值
 
-Hermes-Agent 把“学习闭环”做成产品卖点：不是只强调模型聪明，而是强调记忆、反馈与技能沉淀。PM 可以借鉴：如何设计反馈入口、如何把经验结构化成技能、如何让记忆可审计与可删除。
+Hermes Agent 代表“个人 Agent OS”的产品想象：用户不需要多个单点工具，而是需要一个能接收目标、连接工具、保持记忆的工作代理。PM 应重点研究其任务状态、记忆写入、失败恢复和用户控制权。
 
 ## 对小红书账号的价值
 
-很适合做“AI 终于会记住并学会你的工作方式了”的内容：把它讲成“AI 实习生从新人到熟手”的过程，读者更容易理解长期价值。
+适合做“AI 助理为什么还没真正像助理”的解释：缺少任务连续性、记忆和可靠执行，才是普通人用 AI 的主要断点。
 
 ## 产品化机会
 
-做“中文技能商店 + 学习闭环模板”：把常见场景（做简历、做选题、做求职规划）打包成技能，并提供可解释的经验抽取与复盘流程。
+可以做“个人 AI 助理能力地图”：把开源 Agent 项目拆成记忆、工具、计划、执行、复盘、权限六类能力，帮助学习者判断工具是否靠谱。
 
 ## 风险与限制
 
-长期记忆与持续运行会带来隐私与安全风险（资料/账号/日志）。如果走大众用户产品路线，需要默认最小权限、明确数据存储策略与一键清理能力。
+自进化 Agent 容易被过度宣传。实际落地受工具权限、错误恢复、隐私和长期维护影响，不能只看 star 数判断成熟度。

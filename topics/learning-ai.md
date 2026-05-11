@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-07
+date: 2026-05-11
 repo: null
 owner: null
 name: "Learning AI"
@@ -43,11 +43,14 @@ source_urls:
   - "https://github.com/VectifyAI/PageIndex"
   - "https://github.com/Lum1104/Understand-Anything"
   - "https://github.com/Leonxlnx/taste-skill"
+  - "https://github.com/datawhalechina/easy-vibe"
+  - "https://github.com/addyosmani/agent-skills"
+  - "https://github.com/langchain-ai/deepagents"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-07T11:09:38+08:00
+last_checked: 2026-05-11T16:30:00+08:00
 ---
 
 # Learning AI
@@ -76,6 +79,8 @@ last_checked: 2026-05-07T11:09:38+08:00
 - [VectifyAI/PageIndex](../projects/VectifyAI__PageIndex/index.md)
 - [Lum1104/Understand-Anything](../projects/Lum1104__Understand-Anything/index.md)
 - [Leonxlnx/taste-skill](../projects/Leonxlnx__taste-skill/index.md)
+- [datawhalechina/easy-vibe](../projects/datawhalechina__easy-vibe/index.md)
+- [langchain-ai/deepagents](../projects/langchain-ai__deepagents/index.md)
 
 ## 产品观察
 
@@ -101,3 +106,5 @@ last_checked: 2026-05-07T11:09:38+08:00
 16. 用 PageIndex 理解“AI 读资料”为什么需要目录、索引和证据定位。
 17. 用 Understand-Anything 理解“多模态”不是生成图片，而是看懂图像、视频和文档。
 18. 用 taste-skill 理解“审美规则”也能被写成 AI 可复用的 Skill。
+19. 用 easy-vibe 理解“项目制学习”：先做出一个可运行 demo，再补编程概念。
+20. 用 deepagents 理解“复杂任务 AI”：计划、调用工具、保存中间结果、输出带证据报告。
