@@ -1,29 +1,31 @@
 ---
 type: project_profile
-date: 2026-05-06
+date: 2026-05-14
 repo: "mattpocock/skills"
 owner: "mattpocock"
 name: "skills"
 url: "https://github.com/mattpocock/skills"
-signal_type: new_hot
+signal_type: major_update
 tags:
   - agent-skills
   - typescript
   - devtools
+  - coding-agent
 audience:
   - ai_product_manager
   - xiaohongshu_creator
-stars: 61100
-forks: 5300
-primary_language: "Shell"
+stars: 45900
+forks: 2100
+primary_language: "Markdown"
 license: "MIT"
 source_urls:
+  - "https://gittrend.io/"
   - "https://github.com/mattpocock/skills"
 pm_value_score: 5
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
-confidence: high
-last_checked: 2026-05-06T11:05:00+08:00
+confidence: medium
+last_checked: 2026-05-14T18:30:00+08:00
 ---
 
 # mattpocock/skills
@@ -31,6 +33,8 @@ last_checked: 2026-05-06T11:05:00+08:00
 ## 稳定定位
 
 这是面向真实工程协作的 Agent Skills 项目，用 grill、shared language、TDD、diagnose、architecture 等技能，把工程基本功封装成 Agent 可遵循的工作方式。
+
+2026-05-14 观察补充：GitTrend 当天榜单继续收录该仓库，说明 Agent Skills 不是一次性热词，而是在 coding agent 生态中持续被传播的工作流资产。
 
 ## 原理解释
 
@@ -57,3 +61,5 @@ last_checked: 2026-05-06T11:05:00+08:00
 ## 风险与限制
 
 受众偏开发者，直接搬给文科生会门槛高；需要转译成产品、运营、内容和学习任务后再教学。
+
+另一个限制是 skill 文件本身不会自动保证执行质量，仍需要任务输入、验收标准和人工复核。

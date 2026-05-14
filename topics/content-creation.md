@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-11
+date: 2026-05-14
 repo: null
 owner: null
 name: "Content Creation"
@@ -38,11 +38,13 @@ source_urls:
   - "https://github.com/n8n-io/n8n"
   - "https://github.com/D4Vinci/Scrapling"
   - "https://github.com/AIDC-AI/Pixelle-Video"
+  - "https://github.com/VoltAgent/awesome-design-md"
+  - "https://github.com/tinyhumansai/openhuman"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 5
 confidence: medium
-last_checked: 2026-05-11T16:30:00+08:00
+last_checked: 2026-05-14T18:30:00+08:00
 ---
 
 # Content Creation
@@ -66,12 +68,16 @@ last_checked: 2026-05-11T16:30:00+08:00
 - [Lum1104/Understand-Anything](../projects/Lum1104__Understand-Anything/index.md)
 - [Leonxlnx/taste-skill](../projects/Leonxlnx__taste-skill/index.md)
 - [YouMind-OpenLab/awesome-gpt-image-2](../projects/YouMind-OpenLab__awesome-gpt-image-2/index.md)
+- [VoltAgent/awesome-design-md](../projects/VoltAgent__awesome-design-md/index.md)
+- [tinyhumansai/openhuman](../projects/tinyhumansai__openhuman/index.md)
 
 ## 产品观察
 
 内容生成正在从“生成一段文字或一张图”走向“生成可编辑资产、可复用流程和有来源的研究包”。ppt-master、guizang-ppt-skill、open-design 和 DESIGN.md 说明交付物要可编辑；VoxCPM、Pixelle-Video、social-auto-upload、sim 和 n8n 则把声音、视频素材、发布分发和流程编排补进了创作者工作流。2026-05-07 的新增信号是：创作工具还需要先理解素材、沉淀审美规则，再进入生成环节。
 
 2026-05-11 新增信号是：视觉生成正在从 prompt 尝试转向案例库和风格素材库。awesome-gpt-image-2 这类项目对小红书账号尤其有价值，因为它能把图片生成拆成参考、提示词、风格和风险。
+
+2026-05-14 新增信号是：内容账号也需要“长期人设记忆”和“设计上下文”。openhuman 代表长期角色/数字员工叙事，awesome-design-md 则能把视觉风格沉淀成 AI 可读规则。
 
 ## 小红书切入
 
@@ -87,3 +93,4 @@ last_checked: 2026-05-11T16:30:00+08:00
 - “为什么 AI 做图显廉价？因为没有长期审美规则和反例库。”
 - “AI 先帮你看懂素材，再帮你写脚本，效果会比直接生成更稳。”
 - “AI 做图别从空白 prompt 开始，先建立自己的视觉案例库。”
+- “AI 账号要稳定输出，先让 AI 记住你的人设和风格。”

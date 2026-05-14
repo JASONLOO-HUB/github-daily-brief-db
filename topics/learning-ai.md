@@ -1,6 +1,6 @@
 ---
 type: topic_index
-date: 2026-05-11
+date: 2026-05-14
 repo: null
 owner: null
 name: "Learning AI"
@@ -46,11 +46,14 @@ source_urls:
   - "https://github.com/datawhalechina/easy-vibe"
   - "https://github.com/addyosmani/agent-skills"
   - "https://github.com/langchain-ai/deepagents"
+  - "https://github.com/github/spec-kit"
+  - "https://github.com/VoltAgent/awesome-design-md"
+  - "https://github.com/rohitg00/agentmemory"
 pm_value_score: 4
 xiaohongshu_value_score: 5
 product_opportunity_score: 4
 confidence: medium
-last_checked: 2026-05-11T16:30:00+08:00
+last_checked: 2026-05-14T18:30:00+08:00
 ---
 
 # Learning AI
@@ -81,6 +84,9 @@ last_checked: 2026-05-11T16:30:00+08:00
 - [Leonxlnx/taste-skill](../projects/Leonxlnx__taste-skill/index.md)
 - [datawhalechina/easy-vibe](../projects/datawhalechina__easy-vibe/index.md)
 - [langchain-ai/deepagents](../projects/langchain-ai__deepagents/index.md)
+- [github/spec-kit](../projects/github__spec-kit/index.md)
+- [VoltAgent/awesome-design-md](../projects/VoltAgent__awesome-design-md/index.md)
+- [rohitg00/agentmemory](../projects/rohitg00__agentmemory/index.md)
 
 ## 产品观察
 
@@ -108,3 +114,6 @@ last_checked: 2026-05-11T16:30:00+08:00
 18. 用 taste-skill 理解“审美规则”也能被写成 AI 可复用的 Skill。
 19. 用 easy-vibe 理解“项目制学习”：先做出一个可运行 demo，再补编程概念。
 20. 用 deepagents 理解“复杂任务 AI”：计划、调用工具、保存中间结果、输出带证据报告。
+21. 用 spec-kit 理解“需求规格”：先写清楚目标、约束和验收，再让 AI 写代码。
+22. 用 awesome-design-md 理解“设计上下文”：AI 做界面也需要品牌和组件规则。
+23. 用 agentmemory 理解“长期记忆”：AI 助理要持续工作，必须知道该记住什么、忘掉什么。
